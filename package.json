@@ -1,0 +1,14 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "This is a node tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "mehedi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
